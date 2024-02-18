@@ -20,13 +20,6 @@
 ## 🖥️ 프로젝트
 
 
-#### 프로젝트 주체 
-
-![웨인힐스브라이언트에이아이](https://user-images.githubusercontent.com/83492367/188452413-d9898495-f2a4-49a1-988b-261d02d24e83.png)
-
-[Wayne Hills Bryant A.I](https://www.waynehills.co/)
-
-
 #### 프로젝트 설명
 
 회원 정보 내용을 포함하는 테이블을 설계하고 다음과 같은 기능을 제공하는 서버 개발
